@@ -9,3 +9,6 @@
 ![Springboot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234B4B8C.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-henrique-bellanzon-38a1616b) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leandrobellanzon) 
